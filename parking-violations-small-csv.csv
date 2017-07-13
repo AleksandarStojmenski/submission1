@@ -1,0 +1,6 @@
+summons_number,issue_date,violation_code,violation_county,violation_description,violation_location,violation_precinct,violation_time,time_first_observed,meter_number,issuer_code,issuer_command,issuer_precinct,issuing_agency,plate_id,plate_type,registration_state,street_name,vehicle_body_type,vehicle_color,vehicle_make,vehicle_year
+1362335939,2016-03-29,40,NY,,28,28,0032A,,-,937208,0028,28,P,PIKINE,PAS,MA,N/W C/O N 113-8TH,SUBN,GLD,FORD,0
+1366337384,2016-03-29,71,Q,,109,109,0526P,,-,941983,0109,109,P,FWH9893,NULL,NY,PARSONS BLV,SDN,BLACK,NISSA,2012
+1401053154,2016-03-29,14,K,,88,88,0330P,,-,958058,0803,803,P,JPT8115,PAS,PA,CARLTON AVE,SUBN,GOLD,ISUZU,0
+1406890741,2016-03-29,40,K,,66,66,0350A,,-,956866,0066,66,P,JWJ9660,PAS,PA,43 ST,TWOD,WHITE,FORD,0
+1406904193,2016-03-29,14,K,,62,62,0123P,,-,932353,0062,62,P,HTK9729,PAS,PA,16 AVE,SDN,GY,NISSA,0
